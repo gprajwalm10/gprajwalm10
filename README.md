@@ -7,7 +7,7 @@
 
 ---
 
-### About Me:
+## About Me
 - Currently working on **Smart Projects**  
 - Exploring **ReactJS** and **Automation**  
 - Building **Innovative Solutions** using **Internet of Things**  
@@ -15,7 +15,7 @@
 
 ---
 
-### Languages & Tools:
+## Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-### GitHub Stats:
+## GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prajwal&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal&theme=tokyonight" />
@@ -34,12 +34,8 @@
 
 ---
 
-### Let's Connect:
-<p align="center">
-  <a href="mailto:g.prajwal.m.10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📩 Contact Me
+You can reach out via email at **g.prajwal.m.10@gmail.com**  
 
 ---
 
