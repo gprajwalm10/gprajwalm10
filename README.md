@@ -34,11 +34,10 @@
 | Project | What it does | Tech |
 | :--- | :--- | :--- |
 | 🔍 **[Multi-Format Information Retriever](https://github.com/gprajwalm10/Multi-Format-Information-Retriver)** | Corrective RAG app that answers questions from PDFs, DOCX, TXT, CSV, web pages and YouTube videos, with web search fallback and 4 LLM providers | Python, LangChain, Streamlit, FAISS, Hugging Face |
-| 🎓 **Adaptively** | AI learning platform that adapts to the learner | React, TypeScript, Vite, Firebase, Gemini API |
-| 🌾 **AgriGuard** | Multilingual crop pest detection in 6 Indian languages | React, Node.js, Express, Gemini API |
-| ⛏️ **MineGuardAI** | Rockfall risk prediction for early safety warnings | Python, Scikit-learn |
+| 🌾 **[AgriGuard](https://github.com/gprajwalm10/tomato_pest_detection)** | Multilingual AI app for tomato plants with instant pest and disease detection, plus organic and chemical treatment plans | React, Node.js, Express, Gemini API |
+| ⛏️ **[MineGuardAI](https://github.com/gprajwalm10/Ai-Rockfall-prediction-)** | AI system for open-pit mines with ML rockfall prediction, automated alerts, and a real-time dashboard | Python, Scikit-learn |
 
-<!-- Add "Repo" and "Live Demo" links for Adaptively, AgriGuard and MineGuardAI once you have the URLs -->
+<!-- Add the repo link for Adaptively once you have the URL -->
 
 ---
 
@@ -74,15 +73,6 @@
     <td align="center" width="150"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black" alt="Google Colab"/></td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gprajwalm10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprajwalm10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 ---
 
