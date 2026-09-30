@@ -23,7 +23,7 @@
 - 💡 I build **real-world, problem-driven software**, from AI-powered web apps to intelligent systems
 - 🤖 Focused on **AI, Machine Learning and LLM applications** (RAG, prediction models, multilingual AI)
 - 🌐 Comfortable across the stack: **React, Node.js, Python**
-- 👨‍🏫 Working as a **Technical Mentor for DSA at FacePrep**, helping students prepare for product company interviews
+- 👨‍🏫 Worked as a **Technical Mentor for DSA at FacePrep**, helping students prepare for product company interviews
 - ⚙️ Hands-on experience with **IoT and robotics-based automation**
 - 🌱 Currently improving my system design skills and shipping more end-to-end projects
 
